@@ -1,5 +1,5 @@
 # 🎬 Netflix Movies & TV Shows Data Analysis (SQL Server)
-
+![Netflix_Log0](https://github.com/ThummaSaiVarun/Netflix_SQL_Project/blob/main/logo.png)
 ## 📌 Overview
 This project focuses on analyzing **Netflix’s Movies and TV Shows dataset** using **SQL Server** to uncover valuable business insights.  
 It answers 15 real-world business questions related to content types, genres, ratings, release years, and country-wise trends.  
